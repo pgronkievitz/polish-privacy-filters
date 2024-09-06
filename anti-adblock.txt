@@ -605,3 +605,5 @@ yafud.pl#@#.adsbygoogle, #adsense_banner_top
 @@||criteo.net/js/ld/publishertag.js$script,third-party,domain=shinden.pl
 @@/^https:\/\/www\.[a-z]{7,14}\.com\/[a-z]{1,4}\.js/$script,third-party,domain=shinden.pl
 !#endif
+
+allegro.pl##[data-wrapper-name=detector-wrapper]
